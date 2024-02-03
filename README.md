@@ -11,7 +11,7 @@
 
 - ⚡ Una de mis pasiones **es la innovación y aprender nuevos lenguajes de programación.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contáctame en:</h3>
 <p align="left">
 <a href="https://dev.to/anomia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anomia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xnicolas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xnicolas" height="30" width="40" /></a>
