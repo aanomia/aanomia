@@ -9,6 +9,8 @@
 
 - 📫 Contáctame en **h.nicolas.sy@gmail.com**
 
+- 🤓 Checa mi portafolio con mis más recientes proyectos en **anomia-port.netlify.app**
+
 - ⚡ Una de mis pasiones **es la innovación y aprender nuevos lenguajes de programación.**
 
 <h3 align="left">Contáctame en:</h3>
