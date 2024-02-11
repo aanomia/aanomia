@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanomia&label=Profile%20views&color=0e75b6&style=flat" alt="aanomia" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Hazkell**
+- 🌱 Actualmente estoy aprendiendo **Haskell**
 
 - 💬 Pregúntame acerca de **Python, Java y GO**
 
